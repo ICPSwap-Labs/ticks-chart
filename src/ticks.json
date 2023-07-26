@@ -1,0 +1,2396 @@
+[
+  {
+    "tickIndex": "-58620",
+    "price0Decimal": "1",
+    "liquidityNet": "496988437",
+    "price0": "4226940152704539713602568297",
+    "price1": "0",
+    "liquidityGross": "496988437",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37260",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12297856350049486257740345845",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29700",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17946696660911309409189975889",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44640",
+    "price0Decimal": "1",
+    "liquidityNet": "2777174",
+    "price0": "8503207246760386413533796547",
+    "price1": "0",
+    "liquidityGross": "2777174",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31680",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16255170091260013465575776143",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30660",
+    "price0Decimal": "1",
+    "liquidityNet": "-15400649",
+    "price0": "17105644004705261204549156784",
+    "price1": "0",
+    "liquidityGross": "15400649",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36240",
+    "price0Decimal": "1",
+    "liquidityNet": "8524109",
+    "price0": "12941282777351998174601539727",
+    "price1": "0",
+    "liquidityGross": "8524109",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43620",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8948096835942638356004128379",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "887220",
+    "price0Decimal": "1",
+    "liquidityNet": "-1870170986",
+    "price0": "1457652066949847389969617340386294118487833376468",
+    "price1": "0",
+    "liquidityGross": "1870170986",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35220",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13618373410477633788716472013",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42600",
+    "price0Decimal": "1",
+    "liquidityNet": "1035207",
+    "price0": "9416263141876461944858839222",
+    "price1": "0",
+    "liquidityGross": "1035207",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34200",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14330889567745960374660100688",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-27780",
+    "price0Decimal": "1",
+    "liquidityNet": "-3289224",
+    "price0": "19754894200849981271665830913",
+    "price1": "0",
+    "liquidityGross": "3289224",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "48420",
+    "price0Decimal": "1",
+    "liquidityNet": "-19141732",
+    "price0": "891772255455876082336667858780",
+    "price1": "0",
+    "liquidityGross": "19141732",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-59220",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "4102021344386200722142160967",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "27060",
+    "price0Decimal": "1",
+    "liquidityNet": "-38662905",
+    "price0": "306514228688251380013962233851",
+    "price1": "0",
+    "liquidityGross": "38662905",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-46260",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7841635836452255296164693008",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45240",
+    "price0Decimal": "1",
+    "liquidityNet": "-3586765",
+    "price0": "8251911870489318694124340944",
+    "price1": "0",
+    "liquidityGross": "3586765",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-52620",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "5705686813986120180141564211",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44220",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8683653632802452678862176606",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43200",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9137984214803768518718638262",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30240",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17468642524204733227237919769",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "45480",
+    "price0Decimal": "1",
+    "liquidityNet": "-1659434",
+    "price0": "769867275488501231516256971553",
+    "price1": "0",
+    "liquidityGross": "1659434",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "36900",
+    "price0Decimal": "1",
+    "liquidityNet": "-76274",
+    "price0": "501317473013540316157300951213",
+    "price1": "0",
+    "liquidityGross": "76274",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28380",
+    "price0Decimal": "1",
+    "liquidityNet": "-5308763",
+    "price0": "19171077597616057991565034330",
+    "price1": "0",
+    "liquidityGross": "5308763",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-48720",
+    "price0Decimal": "1",
+    "liquidityNet": "357633149",
+    "price0": "6934116267050610203286320966",
+    "price1": "0",
+    "liquidityGross": "357633149",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-96120",
+    "price0Decimal": "1",
+    "liquidityNet": "2512498",
+    "price0": "648283036608287207193859250",
+    "price1": "0",
+    "liquidityGross": "2512498",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34740",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13949151291895579332641504910",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-33720",
+    "price0Decimal": "1",
+    "liquidityNet": "20792031",
+    "price0": "14678973817396983077481395328",
+    "price1": "0",
+    "liquidityGross": "20792031",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-39300",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11105384339813616953877048400",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "35040",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "456799346965252088458020551455",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32700",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "15446980810726096893090494039",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-58740",
+    "price0Decimal": "1",
+    "liquidityNet": "13440977",
+    "price0": "4201655705181692488970527328",
+    "price1": "0",
+    "liquidityGross": "13440977",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45780",
+    "price0Decimal": "1",
+    "liquidityNet": "122009943",
+    "price0": "8032102025816477115649669992",
+    "price1": "0",
+    "liquidityGross": "122009943",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44760",
+    "price0Decimal": "1",
+    "liquidityNet": "-496988437",
+    "price0": "8452343290887000405747114099",
+    "price1": "0",
+    "liquidityGross": "496988437",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37380",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12224293798347071710495138942",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-49320",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "6729192253573261500189840373",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30780",
+    "price0Decimal": "1",
+    "liquidityNet": "-2777174",
+    "price0": "17003322528044480018951368070",
+    "price1": "0",
+    "liquidityGross": "2777174",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28800",
+    "price0Decimal": "1",
+    "liquidityNet": "-1037814",
+    "price0": "18772702464831609510639988955",
+    "price1": "0",
+    "liquidityGross": "1037814",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43740",
+    "price0Decimal": "1",
+    "liquidityNet": "5287863",
+    "price0": "8894571667214383240667076596",
+    "price1": "0",
+    "liquidityGross": "5287863",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42720",
+    "price0Decimal": "1",
+    "liquidityNet": "2185531",
+    "price0": "9359937525077804158042941045",
+    "price1": "0",
+    "liquidityGross": "2185531",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35340",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13536911872011458971461420256",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34320",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14245165944476880366977402364",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41700",
+    "price0Decimal": "1",
+    "liquidityNet": "8756281",
+    "price0": "9849651422371074538509463112",
+    "price1": "0",
+    "liquidityGross": "8756281",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-120240",
+    "price0Decimal": "1",
+    "liquidityNet": "7092088",
+    "price0": "194102754625447929638294157",
+    "price1": "0",
+    "liquidityGross": "7092088",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-26880",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "20664123212408087934770951030",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-59340",
+    "price0Decimal": "1",
+    "liquidityNet": "7082960",
+    "price0": "4077484128416069174400322268",
+    "price1": "0",
+    "liquidityGross": "7082960",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "34560",
+    "price0Decimal": "1",
+    "liquidityNet": "19141732",
+    "price0": "445967209793576610656819152043",
+    "price1": "0",
+    "liquidityGross": "19141732",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-38820",
+    "price0Decimal": "1",
+    "liquidityNet": "269776148",
+    "price0": "11375124006478164762776713686",
+    "price1": "0",
+    "liquidityGross": "269776148",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37800",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11970272883752359731221726337",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44340",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8631710293967931339573678802",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31380",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16500823152391703378031222635",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29400",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "18217912584657635794263596436",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30360",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17364149685592852946773092893",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43320",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9083323189571135576795987066",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42300",
+    "price0Decimal": "1",
+    "liquidityNet": "5524572",
+    "price0": "9558564566730033275156105068",
+    "price1": "0",
+    "liquidityGross": "5884022",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35880",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13176323132985051857946077555",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34860",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13865711126885785403070019768",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-82260",
+    "price0Decimal": "1",
+    "liquidityNet": "-2512498",
+    "price0": "1296330342308237119919414755",
+    "price1": "0",
+    "liquidityGross": "2512498",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-33840",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14591168045427926874951288556",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "96480",
+    "price0Decimal": "1",
+    "liquidityNet": "-1831059500",
+    "price0": "9858513139299134329951108602000",
+    "price1": "0",
+    "liquidityGross": "1831059500",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31800",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16157935926521616144815811003",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-887220",
+    "price0Decimal": "1",
+    "liquidityNet": "1870170986",
+    "price0": "4306310044",
+    "price1": "0",
+    "liquidityGross": "1870170986",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44880",
+    "price0Decimal": "1",
+    "liquidityNet": "-13440977",
+    "price0": "8401783589859111128278207385",
+    "price1": "0",
+    "liquidityGross": "13440977",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29940",
+    "price0Decimal": "1",
+    "liquidityNet": "-5777194",
+    "price0": "17732633948828052598660473723",
+    "price1": "0",
+    "liquidityGross": "5777194",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "45180",
+    "price0Decimal": "1",
+    "liquidityNet": "-328294",
+    "price0": "758406013759782418264655321941",
+    "price1": "0",
+    "liquidityGross": "328294",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43860",
+    "price0Decimal": "1",
+    "liquidityNet": "10629732",
+    "price0": "8841366672009047579908952021",
+    "price1": "0",
+    "liquidityGross": "10629732",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35460",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13455937615105956482492911955",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42840",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9303948833348034899888001708",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28080",
+    "price0Decimal": "1",
+    "liquidityNet": "-1077828",
+    "price0": "19460796737471733193634538526",
+    "price1": "0",
+    "liquidityGross": "1077828",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-47400",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7407183814281329919609025417",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41820",
+    "price0Decimal": "1",
+    "liquidityNet": "2173118",
+    "price0": "9790733390530019774268169140",
+    "price1": "0",
+    "liquidityGross": "2173118",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34440",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14159955097442076719941746065",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-40800",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "10302986617989030570877489287",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-33420",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14900806922327353204588109250",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "13200",
+    "price0Decimal": "1",
+    "liquidityNet": "38662905",
+    "price0": "153284983350654662456166013412",
+    "price1": "0",
+    "liquidityGross": "38662905",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32400",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "15680420270300721499345536440",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-38940",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11307080997678134364735375199",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45480",
+    "price0Decimal": "1",
+    "liquidityNet": "-7082960",
+    "price0": "8153485588023848673053529535",
+    "price1": "0",
+    "liquidityGross": "7082960",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37920",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11898669850440013350140494229",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "0",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "79228162514264337593543950336",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37080",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12409031034246663560375122920",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44460",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8580077666564723404548996477",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36900",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12521210756236975629062391448",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-50820",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "6242987691104470823237564193",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30480",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17260281895739400192658218761",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43440",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9028989132257164846806434928",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36060",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13058274144377739089160200606",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42420",
+    "price0Decimal": "1",
+    "liquidityNet": "4411143",
+    "price0": "9501387740124954552528891454",
+    "price1": "0",
+    "liquidityGross": "4411143",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35040",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13741485790399277205043708289",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34020",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14460443213243890488404034702",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41400",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9998502342379996075927724538",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34980",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13782770079061773714948225514",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-33960",
+    "price0Decimal": "1",
+    "liquidityNet": "3658299",
+    "price0": "14503887504560648676777361467",
+    "price1": "0",
+    "liquidityGross": "3658299",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-26580",
+    "price0Decimal": "1",
+    "liquidityNet": "-8524109",
+    "price0": "20976405710482949752873665574",
+    "price1": "0",
+    "liquidityGross": "8524109",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45900",
+    "price0Decimal": "1",
+    "liquidityNet": "48482576",
+    "price0": "7984056097832384537663433653",
+    "price1": "0",
+    "liquidityGross": "48482576",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32940",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "15262733945226663670788635053",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-46080",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7912525539738091750091588668",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-58020",
+    "price0Decimal": "1",
+    "liquidityNet": "2538897",
+    "price0": "4355663112040529956206123625",
+    "price1": "0",
+    "liquidityGross": "2538897",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31920",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16061283391058046112448424304",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36300",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12902519041849014031427430066",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-57780",
+    "price0Decimal": "1",
+    "liquidityNet": "1235517",
+    "price0": "4408243290561951220776487818",
+    "price1": "0",
+    "liquidityGross": "1235517",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29880",
+    "price0Decimal": "1",
+    "liquidityNet": "-5287863",
+    "price0": "17785909059675329554664057034",
+    "price1": "0",
+    "liquidityGross": "5287863",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28860",
+    "price0Decimal": "1",
+    "liquidityNet": "-2185531",
+    "price0": "18716471557467737616298066822",
+    "price1": "0",
+    "liquidityGross": "2185531",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-27840",
+    "price0Decimal": "1",
+    "liquidityNet": "-8756281",
+    "price0": "19695721280601972133988181106",
+    "price1": "0",
+    "liquidityGross": "8756281",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42780",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9331901189825047067921963521",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "64440",
+    "price0Decimal": "1",
+    "liquidityNet": "-180297",
+    "price0": "1986581762844315947891338360295",
+    "price1": "0",
+    "liquidityGross": "180297",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41760",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9820148220169081667783631515",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34380",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14202496616067320062890996556",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-47340",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7429437617067242266459315588",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31320",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16550397467468177421098633935",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-58380",
+    "price0Decimal": "1",
+    "liquidityNet": "2428016",
+    "price0": "4277966428638090441000236947",
+    "price1": "0",
+    "liquidityGross": "2428016",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37860",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11934417667546407665146586667",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30300",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17416317739246822765513165753",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36840",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12558828906642924086107085531",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28440",
+    "price0Decimal": "1",
+    "liquidityNet": "-5704297",
+    "price0": "19113653415323888584041847563",
+    "price1": "0",
+    "liquidityGross": "5704297",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43380",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9056115412439114353909257365",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35820",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13215909472921635916838252298",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34800",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13907368632442650636651487111",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42360",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9529933272983685283439143847",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-26400",
+    "price0Decimal": "1",
+    "liquidityNet": "-1597540",
+    "price0": "21166035936603246273729043871",
+    "price1": "0",
+    "liquidityGross": "1597540",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-47880",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7231536384692922202258696611",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-12420",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "42579072250682019859243544512",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-39480",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11005889254866236089691329841",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-16920",
+    "price0Decimal": "1",
+    "liquidityNet": "-336464",
+    "price0": "34000462249447499524371428103",
+    "price1": "0",
+    "liquidityGross": "336464",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44820",
+    "price0Decimal": "1",
+    "liquidityNet": "48951830",
+    "price0": "8427025522521582789588652635",
+    "price1": "0",
+    "liquidityGross": "56529522",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31860",
+    "price0Decimal": "1",
+    "liquidityNet": "-122009943",
+    "price0": "16109537173066820765947789022",
+    "price1": "0",
+    "liquidityGross": "122009943",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29040",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "18548787408000764385670649046",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43800",
+    "price0Decimal": "1",
+    "liquidityNet": "117750410",
+    "price0": "8867929267890289020456598002",
+    "price1": "0",
+    "liquidityGross": "117750410",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30840",
+    "price0Decimal": "1",
+    "liquidityNet": "-2428016",
+    "price0": "16952391541643152557230531300",
+    "price1": "0",
+    "liquidityGross": "2428016",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35400",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13496364015947901960726468015",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28020",
+    "price0Decimal": "1",
+    "liquidityNet": "-1082735",
+    "price0": "19519263861214151207211408755",
+    "price1": "0",
+    "liquidityGross": "1082735",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28980",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "18604514532808927754680035298",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-27960",
+    "price0Decimal": "1",
+    "liquidityNet": "-2173118",
+    "price0": "19577906640897321589248089470",
+    "price1": "0",
+    "liquidityGross": "2173118",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-39900",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "10777186795602105577181423093",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-26940",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "20602226828534250361577843142",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41880",
+    "price0Decimal": "1",
+    "liquidityNet": "1082735",
+    "price0": "9761406668746694516123120184",
+    "price1": "0",
+    "liquidityGross": "1082735",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-47460",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7384996669533880216450437115",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-59400",
+    "price0Decimal": "1",
+    "liquidityNet": "6546934",
+    "price0": "4065270616124370550479328306",
+    "price1": "0",
+    "liquidityGross": "6546934",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-52800",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "5654568565677910121236330192",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45420",
+    "price0Decimal": "1",
+    "liquidityNet": "-156398",
+    "price0": "8177981545575735861494391214",
+    "price1": "0",
+    "liquidityGross": "156398",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-17520",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "32995646218693884926633590532",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32460",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "15633451845733312365985483879",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44400",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8605855257760908392629313267",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37020",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12446312157049093163618007980",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37980",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11863029110734751665538423094",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30420",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17312137893776935766053827173",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36000",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13097505823355798192639495035",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29580",
+    "price0Decimal": "1",
+    "liquidityNet": "-357633149",
+    "price0": "18054695112419759934997236688",
+    "price1": "0",
+    "liquidityGross": "357633149",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "138180",
+    "price0Decimal": "1",
+    "liquidityNet": "-1573859",
+    "price0": "79299443975792720780679863727831",
+    "price1": "0",
+    "liquidityGross": "1573859",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36960",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12483705285544277826884281101",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-98340",
+    "price0Decimal": "1",
+    "liquidityNet": "657294",
+    "price0": "580176829491953869141278061",
+    "price1": "0",
+    "liquidityGross": "657294",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-49080",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "6810424920309989325362939174",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28560",
+    "price0Decimal": "1",
+    "liquidityNet": "-4411143",
+    "price0": "18999320552948151202793878214",
+    "price1": "0",
+    "liquidityGross": "4411143",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-48900",
+    "price0Decimal": "1",
+    "liquidityNet": "151099284",
+    "price0": "6871992303942747624857886424",
+    "price1": "0",
+    "liquidityGross": "151099284",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34920",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13824178400344640806662200163",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42480",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9472927711269541334755665347",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41460",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9968553278837062602850081514",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34080",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14417129053000433983377170882",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-46020",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7936297567989953134142797885",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32040",
+    "price0Decimal": "1",
+    "liquidityNet": "-48482576",
+    "price0": "15965209005715507516230471926",
+    "price1": "0",
+    "liquidityGross": "48482576",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-79440",
+    "price0Decimal": "1",
+    "liquidityNet": "-5076745",
+    "price0": "1492616185784483523236060621",
+    "price1": "0",
+    "liquidityGross": "5076745",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31020",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16800512094261023136531024567",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31980",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16013174146254352880585721603",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30000",
+    "price0Decimal": "1",
+    "liquidityNet": "-10629732",
+    "price0": "17679518415848078729890725252",
+    "price1": "0",
+    "liquidityGross": "10629732",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30960",
+    "price0Decimal": "1",
+    "liquidityNet": "-52740676",
+    "price0": "16850986781027561099202248167",
+    "price1": "0",
+    "liquidityGross": "52740676",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43920",
+    "price0Decimal": "1",
+    "liquidityNet": "-1235517",
+    "price0": "8814883640531020871207785552",
+    "price1": "0",
+    "liquidityGross": "1235517",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29160",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "18437833425950660064038588072",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-57060",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "4569822954775051489799353164",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43080",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9192974175561112610317634930",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28140",
+    "price0Decimal": "1",
+    "liquidityNet": "-2664299",
+    "price0": "19402504743518174880740102276",
+    "price1": "0",
+    "liquidityGross": "2664299",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35520",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13415632305684122561414688249",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34500",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14117541005765479470432102968",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42060",
+    "price0Decimal": "1",
+    "liquidityNet": "17331569",
+    "price0": "9673952515338332388008079795",
+    "price1": "0",
+    "liquidityGross": "17331569",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-59520",
+    "price0Decimal": "1",
+    "liquidityNet": "473559",
+    "price0": "4040953233373209021913711088",
+    "price1": "0",
+    "liquidityGross": "473559",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-40980",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "10210680354882629050687836576",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-46560",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7724894881791139102391740147",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45540",
+    "price0Decimal": "1",
+    "liquidityNet": "-6546934",
+    "price0": "8129063004559814310023353549",
+    "price1": "0",
+    "liquidityGross": "6546934",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "33720",
+    "price0Decimal": "1",
+    "liquidityNet": "-220725607",
+    "price0": "427625378549779092166763516902",
+    "price1": "0",
+    "liquidityGross": "220725607",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-37140",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12371861581640182133066333670",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43500",
+    "price0Decimal": "1",
+    "liquidityNet": "27226069",
+    "price0": "9001944104912993766560172471",
+    "price1": "0",
+    "liquidityGross": "27226069",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30540",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17208581224822580051172886319",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35100",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13700325162835427155325943016",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28680",
+    "price0Decimal": "1",
+    "liquidityNet": "-1035207",
+    "price0": "18885671599772553924330945316",
+    "price1": "0",
+    "liquidityGross": "1035207",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-48180",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7123878176785426158468108448",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-20100",
+    "price0Decimal": "1",
+    "liquidityNet": "-3658299",
+    "price0": "29002501055642952844713338842",
+    "price1": "0",
+    "liquidityGross": "3658299",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41580",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9908924007271390537819427449",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-40560",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "10427360992623318552677324223",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-59100",
+    "price0Decimal": "1",
+    "liquidityNet": "3586765",
+    "price0": "4126706218801737122860077495",
+    "price1": "0",
+    "liquidityGross": "3586765",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-60060",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "3933312565792338283642477369",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32160",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "15869709312151590139188698509",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45120",
+    "price0Decimal": "1",
+    "liquidityNet": "-151099284",
+    "price0": "8301569683335629672469567215",
+    "price1": "0",
+    "liquidityGross": "151099284",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44100",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8735909552847115350628863324",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30120",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17573764172952374305624966487",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36660",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12672362826526188149876284410",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35640",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13335383511340098536829351279",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42180",
+    "price0Decimal": "1",
+    "liquidityNet": "19848865",
+    "price0": "9616085468283955654206371680",
+    "price1": "0",
+    "liquidityGross": "19848865",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41160",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "10119201079767631062961738303",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-138180",
+    "price0Decimal": "1",
+    "liquidityNet": "9910899",
+    "price0": "79156945126914824732836954",
+    "price1": "0",
+    "liquidityGross": "9910899",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45660",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8080437081427876737208698195",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29100",
+    "price0Decimal": "1",
+    "liquidityNet": "-1014603",
+    "price0": "18493227205712073807436061229",
+    "price1": "0",
+    "liquidityGross": "1014603",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44040",
+    "price0Decimal": "1",
+    "liquidityNet": "54729132",
+    "price0": "8762155318203957580705602035",
+    "price1": "0",
+    "liquidityGross": "54729132",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30060",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17626561982743052268379499343",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "99120",
+    "price0Decimal": "1",
+    "liquidityNet": "-405816",
+    "price0": "11249557116487070549154599285943",
+    "price1": "0",
+    "liquidityGross": "405816",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43980",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8788479935132579411022391481",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42000",
+    "price0Decimal": "1",
+    "liquidityNet": "2633946",
+    "price0": "9703016493880561577768798717",
+    "price1": "0",
+    "liquidityGross": "2633946",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42960",
+    "price0Decimal": "1",
+    "liquidityNet": "1014603",
+    "price0": "9248295051289747137562792855",
+    "price1": "0",
+    "liquidityGross": "1014603",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35580",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13375447724970614848064661753",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-54900",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "5090973470084129494788312045",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41940",
+    "price0Decimal": "1",
+    "liquidityNet": "1077828",
+    "price0": "9732167790904803557945597388",
+    "price1": "0",
+    "liquidityGross": "1077828",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-27180",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "20356489764315852087606766373",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34560",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14075253959348586170697505770",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-33540",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14811674202898003904861123888",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-46500",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7748103201113502618676706934",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-38100",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11792067581549044237908644979",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "19860",
+    "price0Decimal": "1",
+    "liquidityNet": "332702483",
+    "price0": "213851569996733226364933038577",
+    "price1": "0",
+    "liquidityGross": "332702483",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "33780",
+    "price0Decimal": "1",
+    "liquidityNet": "-111976876",
+    "price0": "428910116593156674890155812979",
+    "price1": "0",
+    "liquidityGross": "111976876",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44580",
+    "price0Decimal": "1",
+    "liquidityNet": "15400649",
+    "price0": "8528753891998527564393455018",
+    "price1": "0",
+    "liquidityGross": "15400649",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29640",
+    "price0Decimal": "1",
+    "liquidityNet": "-144976479",
+    "price0": "18000614891937315252892117485",
+    "price1": "0",
+    "liquidityGross": "144976479",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43560",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8974980087025510791744857312",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28620",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "18942410843970940399242110085",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42540",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9444552930302605542794635940",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-27600",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "19933481758031791117880081780",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-35160",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13659287825961338881748444716",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-40500",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "10458688476985183098430703704",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "82620",
+    "price0Decimal": "1",
+    "liquidityNet": "1831059500",
+    "price0": "4930152929235289781183733795375",
+    "price1": "0",
+    "liquidityGross": "1831059500",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-59160",
+    "price0Decimal": "1",
+    "liquidityNet": "3233664411",
+    "price0": "4114345268877661500047044168",
+    "price1": "0",
+    "liquidityGross": "3233664411",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44160",
+    "price0Decimal": "1",
+    "liquidityNet": "-2538897",
+    "price0": "8709742402873606409411919908",
+    "price1": "0",
+    "liquidityGross": "2538897",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29220",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "18382605570221981301613878063",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36600",
+    "price0Decimal": "1",
+    "liquidityNet": "-269776148",
+    "price0": "12710435091268601855671266521",
+    "price1": "0",
+    "liquidityGross": "269776148",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28200",
+    "price0Decimal": "1",
+    "liquidityNet": "-11554375",
+    "price0": "19344387354777595280014987747",
+    "price1": "0",
+    "liquidityGross": "11554375",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43140",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "9165437954804785806115373088",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30180",
+    "price0Decimal": "1",
+    "liquidityNet": "-54729132",
+    "price0": "17521124511342914084857688034",
+    "price1": "0",
+    "liquidityGross": "54729132",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-47640",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7318833189865986981639985594",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34680",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "13991059481251187597284056263",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-39240",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "11138748846373246551834341325",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-45600",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8104713575402195087010238073",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-1560",
+    "price0Decimal": "1",
+    "liquidityNet": "916565",
+    "price0": "73283517692214316072999346299",
+    "price1": "0",
+    "liquidityGross": "916565",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-58680",
+    "price0Decimal": "1",
+    "liquidityNet": "3788846",
+    "price0": "4214278966569797897404660827",
+    "price1": "0",
+    "liquidityGross": "3788846",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30600",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17157035415766614519276731785",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29760",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17892939934125821254522638067",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-50100",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "6471818041047925746864497979",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-49260",
+    "price0Decimal": "1",
+    "liquidityNet": "-3233664411",
+    "price0": "6749409129659255822756004264",
+    "price1": "0",
+    "liquidityGross": "3233664411",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-56640",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "4666799073680703239212730060",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43680",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8921294109739127996082057351",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-48240",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7102539632983287273806823686",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42660",
+    "price0Decimal": "1",
+    "liquidityNet": "1037814",
+    "price0": "9388058091408282263600690394",
+    "price1": "0",
+    "liquidityGross": "1037814",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-107280",
+    "price0Decimal": "1",
+    "liquidityNet": "-7092088",
+    "price0": "371056849498857414563202915",
+    "price1": "0",
+    "liquidityGross": "7092088",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-41640",
+    "price0Decimal": "1",
+    "liquidityNet": "3289224",
+    "price0": "9879243262638466863043543080",
+    "price1": "0",
+    "liquidityGross": "3289224",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-34260",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "14287963466656602403032409213",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-46200",
+    "price0Decimal": "1",
+    "liquidityNet": "-3753032",
+    "price0": "7865194886936043307829008585",
+    "price1": "0",
+    "liquidityGross": "3753032",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-60120",
+    "price0Decimal": "1",
+    "liquidityNet": "3753032",
+    "price0": "3921530898505246053556693904",
+    "price1": "0",
+    "liquidityGross": "3753032",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32220",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "15822173899714573403226209203",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-59280",
+    "price0Decimal": "1",
+    "liquidityNet": "156398",
+    "price0": "4089734334423041711529067474",
+    "price1": "0",
+    "liquidityGross": "156398",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31200",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16649993361470722047191621740",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-36720",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "12634404601730653380266596695",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-44280",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "8657643007858025195496270389",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-29340",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "18272645644346029217949906654",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-28320",
+    "price0Decimal": "1",
+    "liquidityNet": "-19848865",
+    "price0": "19228674302483596511192506823",
+    "price1": "0",
+    "liquidityGross": "19848865",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-43260",
+    "price0Decimal": "1",
+    "liquidityNet": "-473559",
+    "price0": "9110612708498921564501808701",
+    "price1": "0",
+    "liquidityGross": "473559",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-42240",
+    "price0Decimal": "1",
+    "liquidityNet": "5268806",
+    "price0": "9587281879020069664950983697",
+    "price1": "0",
+    "liquidityGross": "5348720",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-19860",
+    "price0Decimal": "1",
+    "liquidityNet": "-20792031",
+    "price0": "29352610015828123667064493204",
+    "price1": "0",
+    "liquidityGross": "20792031",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-46740",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "7655686194459359969183790112",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-32760",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "15400711620200829745946934021",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-31740",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "16206480086967985082990522654",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  },
+  {
+    "tickIndex": "-30720",
+    "price0Decimal": "1",
+    "liquidityNet": "0",
+    "price0": "17054406529161721762599411569",
+    "price1": "0",
+    "liquidityGross": "0",
+    "price1Decimal": "1"
+  }
+]
